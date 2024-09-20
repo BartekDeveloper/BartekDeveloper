@@ -1,4 +1,4 @@
-<h1 align="center">Hej 👋 Bartek</h1>
+<h1 align="center">Hej 👋, Jestem Bartek</h1>
 <h3 align="center">Uczeń Mazowieckiego Technikum Innowacji z Płocka!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartekdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="bartekdeveloper" /> </p>
