@@ -1,10 +1,6 @@
 <h1 align="center">Hej 👋, Jestem Bartek</h1>
 <h3 align="center">15 Letni Uczeń Mazowieckiego Technikum Innowacji z Płocka!</h3>
 
-- Uczę się **PHP, JAVASCRIPT(Typescript), REACT, RUST, GO, PYTHON**
-
-- Chcę się nauczyć: **Zig, Vue, Bash**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/bartosz.zakrzewski.9279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bartosz.zakrzewski.9279" height="30" width="40" /></a>
