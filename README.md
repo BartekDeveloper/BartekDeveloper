@@ -1,5 +1,5 @@
-<h1 align="center">Hej 👋, Jestem Bartek</h1>
-<h3 align="center">15 Letni Uczeń Mazowieckiego Technikum Innowacji z Płocka!</h3>
+<h1 align="center">Hey 👋</h1>
+<h3 align="center">Uczeń Mazowieckiego Technikum Innowacji z Płocka!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
