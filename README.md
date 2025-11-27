@@ -1,5 +1,3 @@
-<h1 align="center">Hey 👋</h1>
-<h3 align="center">Uczeń Mazowieckiego Technikum Innowacji z Płocka!</h3>
 
 
 <p align="left">
